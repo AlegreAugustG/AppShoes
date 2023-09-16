@@ -1,0 +1,8 @@
+.hidden-line {
+  text-decoration: line-through;
+}
+
+.hidden-text {
+  color: transparent;
+  background-color: transparent;
+}
